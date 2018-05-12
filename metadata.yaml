@@ -1,0 +1,30 @@
+_repo: William-Penn_42567
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42567-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holland, Rupert Sargent
+    aliases:
+    - Holland, Rupert S. (Rupert Sargent)
+    - Holland, R. S. (Rupert Sargent)
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '26423'
+    url: http://www.gutenberg.org/2009/agents/26423
+description: ''
+gutenberg_issued: '2013-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42567'
+  lccn: '15018684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Penn, William, 1644-1718'
+- !lcc 'F106'
+title: William Penn
+url: http://www.gutenberg.org/ebooks/42567
